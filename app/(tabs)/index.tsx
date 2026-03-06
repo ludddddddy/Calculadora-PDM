@@ -77,7 +77,7 @@ export default function Index() {
           setMes(text);
           calcularAno(idade, dia, text);
         }}
-      />
+      />ls
 
       <Text style={styles.resultado}>
         Ano de nascimento: {anoNascimento ?? "-"}
